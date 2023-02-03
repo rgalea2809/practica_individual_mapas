@@ -1,1 +1,3 @@
-# practica_individual_mapas
+# practica individual mapas
+Rodrigo Ernesto Mejía Galea
+00037119
